@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "7.0"
+
+target ‘CommonUtils’ do
+
+pod "SVProgressHUD", '2.0.3'
+
+end  
+
